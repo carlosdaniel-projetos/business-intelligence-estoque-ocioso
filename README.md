@@ -41,8 +41,31 @@ A solução permite analisar o comportamento dos estoques sob diferentes perspec
 
 As informações geradas apoiam o acompanhamento de indicadores, a identificação de oportunidades e o direcionamento de ações pelo time de Planejamento.
 
-## Confidencialidade
 
-Este repositório apresenta exclusivamente uma descrição conceitual e técnica do projeto, sem disponibilizar bases corporativas, dashboards originais, informações comerciais ou códigos internos.
+## Demonstração Visual
 
-O conteúdo tem finalidade educacional e de demonstração de competências profissionais em Business Intelligence e Planejamento.
+As imagens apresentam versões demonstrativas dos dashboards, utilizando dados inteiramente fictícios para preservar a confidencialidade das informações corporativas.
+
+### 1. Análise Detalhada — Produtos Desativados
+
+![Dashboard de Desativados](dashboard-desativados.png)
+
+Painel analítico desenvolvido para identificar e monitorar produtos descontinuados, oferecendo uma visão detalhada dos estoques ociosos por produto, categoria e unidade operacional.
+
+A solução permite analisar indicadores de quantidade, custo e cobertura, facilitando a identificação de oportunidades e o direcionamento de ações específicas para cada operação.
+
+### 2. Visão Gerencial — Excessos de Estoque
+
+![Dashboard de Excessos](dashboard-excessos.png)
+
+Painel gerencial desenvolvido para acompanhar a evolução mensal dos estoques, o percentual de ociosidade e sua representatividade por categoria e praça.
+
+A visualização foi estruturada para proporcionar uma leitura rápida e estratégica dos indicadores, transformando dados operacionais em insights que apoiam a identificação de oportunidades, a definição de prioridades e a tomada de decisão.
+
+### Impacto da Solução
+
+A implementação dos painéis ampliou a autonomia das equipes no acompanhamento e na análise da qualidade dos estoques, permitindo que diferentes áreas da empresa consultem informações gerenciais de maneira centralizada e estruturada.
+
+Além de apoiar o setor de Planejamento, a solução foi desenvolvida para atender às necessidades de outras áreas do negócio, democratizando o acesso à informação e promovendo uma cultura de decisões orientadas por dados (*data-driven*).
+
+Com isso, o Business Intelligence passou a atuar como uma ferramenta de apoio à gestão, contribuindo para maior visibilidade operacional, agilidade nas análises e identificação de oportunidades de melhoria na cadeia de suprimentos.
