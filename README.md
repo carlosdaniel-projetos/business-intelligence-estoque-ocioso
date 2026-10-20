@@ -1,4 +1,4 @@
-# Estoque Eficiente | Gestão de Estoque Ocioso
+# Business Intelligence | Gestão de Estoque Ocioso
 
 ### Projeto de Análise de Dados Aplicado ao Planejamento e Supply Chain
 
