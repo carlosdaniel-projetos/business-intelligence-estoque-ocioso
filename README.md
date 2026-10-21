@@ -44,7 +44,7 @@ As informações geradas apoiam o acompanhamento de indicadores, a identificaç�
 
 ## Demonstração Visual
 
-As imagens apresentam versões demonstrativas dos dashboards, utilizando dados inteiramente fictícios para preservar a confidencialidade das informações corporativas.
+As imagens apresentam versões demonstrativas dos dashboards, utilizando dados inteiramente fictícios para preservar a confidencialidade das informações corporativas. Utilizei IA para alterar números e informações sigilosas, mantendo apenas a estrutura e modelo do BI.
 
 ### 1. Análise Detalhada — Produtos Desativados
 
