@@ -71,7 +71,7 @@ Para preservar a confidencialidade das informações corporativas, foram utiliza
 
 ### 1. Análise detalhada | Produtos desativados
 
-![Dashboard de Desativados](dashboard-desativados.png.png)
+![Dashboard de Desativados](dashboard-desativados.png)
 
 Painel analítico desenvolvido para identificar produtos descontinuados e acompanhar sua distribuição entre as operações.
 
@@ -81,7 +81,7 @@ A visualização permite analisar quantidades, custos, cobertura e participaçã
 
 ### 2. Visão gerencial | Excessos de estoque
 
-![Dashboard de Excessos](dashboard-excessos.png.png)
+![Dashboard de Excessos](dashboard-excessos.png)
 
 Painel gerencial desenvolvido para acompanhar a evolução mensal dos estoques, os percentuais de ociosidade e a representatividade das diferentes categorias e operações.
 
