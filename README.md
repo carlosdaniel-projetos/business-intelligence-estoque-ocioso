@@ -1,4 +1,4 @@
-# Business Intelligence | Gestão de Estoque Ocioso
+# Gestão de Estoque Ocioso | Business Intelligence
 
 ### Inteligência de Dados Aplicada ao Planejamento e Supply Chain
 
@@ -17,6 +17,34 @@ Mais do que acompanhar números, a solução foi desenvolvida para **transformar
 A implementação do BI tornou possível materializar a qualidade dos estoques em indicadores mensuráveis, proporcionando maior visibilidade sobre os produtos ociosos presentes em cada operação.
 
 Com essas informações centralizadas, diferentes equipes passaram a contar com uma ferramenta de apoio às suas decisões:
+
+
+## Resultados observados | Evolução da ociosidade
+
+O BI de Gestão de Estoque Ocioso foi concluído em **setembro de 2026**, proporcionando maior visibilidade sobre os produtos ociosos e apoiando ações das equipes de Planejamento, Eficiência e Comercial.
+
+A partir da disponibilização da solução, foi possível acompanhar a evolução dos indicadores e direcionar esforços para reduzir a concentração de produtos com baixa movimentação nas operações.
+
+### Evolução do estoque ocioso | Segundo semestre de 2026
+
+| Mês | Estoque ocioso | % Estoque ocioso |
+|---|---:|---:|
+| Julho | 992.209 | 14,94% |
+| Agosto | 655.748 | 12,48% |
+| **Setembro — Conclusão do BI** | **1.289.572** | **21,06%** |
+| Outubro | 634.723 | 8,87% |
+| Novembro* | 416.268 | 5,99% |
+
+### Resultados em destaque
+
+- **67,7% de redução** na quantidade de estoque ocioso entre setembro e novembro.
+- **873.304 unidades a menos** classificadas como ociosas.
+- **15,07 pontos percentuais de redução** na representatividade do estoque ocioso, de 21,06% para 5,99%.
+
+Os indicadores demonstram uma evolução positiva após a conclusão do BI, com redução expressiva dos estoques ociosos no período analisado.
+
+A solução contribuiu para dar visibilidade às oportunidades de redistribuição, priorização comercial e melhoria da qualidade dos estoques, apoiando as equipes no direcionamento de suas ações.
+
 
 ### Planejamento | Melhor distribuição dos estoques
 
