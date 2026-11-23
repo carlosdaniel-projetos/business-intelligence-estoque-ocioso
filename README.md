@@ -1,4 +1,4 @@
-# Gestão de Estoque Ocioso | Business Intelligence
+# Gestão de Estoque Ocioso | Solução para saúde do estoque
 
 ### Inteligência de Dados Aplicada ao Planejamento e Supply Chain
 
