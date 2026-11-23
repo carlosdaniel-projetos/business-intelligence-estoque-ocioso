@@ -27,13 +27,13 @@ A partir da disponibilização da solução, foi possível acompanhar a evoluç�
 
 ### Evolução do estoque ocioso | Segundo semestre de 2026
 
-| Mês | Estoque ocioso | % Estoque ocioso |
-|---|---:|---:|
-| Julho | 992.209 | 14,94% |
-| Agosto | 655.748 | 12,48% |
-| **Setembro — Conclusão do BI** | **1.289.572** | **21,06%** |
-| Outubro | 634.723 | 8,87% |
-| Novembro* | 416.268 | 5,99% |
+| Mês | % Estoque ocioso |
+|---|---:|
+| Julho | 14,94% |
+| Agosto | 12,48% |
+| **Setembro — Conclusão do BI** | **21,06%** |
+| Outubro | 8,87% |
+| Novembro* | 5,99% |
 
 ### Resultados em destaque
 
