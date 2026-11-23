@@ -178,9 +178,3 @@ Minhas principais responsabilidades envolveram:
 - Disponibilização de informações para apoiar diferentes áreas da empresa.
 
 O projeto representa a aplicação de conhecimentos em Planejamento, Supply Chain e Business Intelligence para transformar necessidades operacionais em soluções analíticas com valor para o negócio.
-
-## Confidencialidade
-
-Este repositório apresenta um estudo de caso profissional com finalidade demonstrativa.
-
-As imagens utilizam informações fictícias e não representam resultados reais da empresa. Não são disponibilizados dados corporativos, credenciais, códigos internos, fontes proprietárias ou regras de negócio confidenciais.
